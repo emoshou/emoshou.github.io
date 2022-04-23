@@ -4,7 +4,7 @@ title:  "The Future of Decentralized Manufacturing"
 published: true
 date: 2022-04-24
 ---
-[Ten years ago, experts thought manufacturing would decentralize and be pushed out to the edges.](http://cba.mit.edu/docs/papers/19.01.POW.pdf){:target="_blank"}{:rel=noopener noreferrer"}
+[Ten years ago, experts thought manufacturing would decentralize and be pushed out to the edges.](http://cba.mit.edu/docs/papers/19.01.POW.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 
 
 Additive and digital manufacturing (3D printing mainly) implied the capital cost and barrier of entry to manufacturing would asymptotically approach values that would make difficulty in starting up the requisite machinery to manufacture negligible. Makerspaces and low volume machine shops would begin to eat away at the manufacturing sector. Those seasoned in on demand manufacturing were rolling their eyes.
@@ -23,7 +23,7 @@ Prototyping became cheaper.
 
 We can now 3D print non-structural parts in hours. The idea that a manufacturing laymen (often times, an engineer) can turn an undimensioned CAD model into an actual part should still shock anyone. This has changed the way engineers think about part cost forever. As an example: when designing a mechatronic system, limit switches and sensors are critical where axes of motion interact with each other, or with themselves (say, a hard-stop for example). Fine tuning the kinematics of the system and the placement of sensors could take hours or days. Today, I can pay some amount of attention to it, and know that when I get it wrong, I can easily crank out a new bracket on a 3D printer by the end of the day.
 
-In the case for sensor mounting on prototypes, additive manufacturing works well. However, there are major limitations to additive manufacturing. Structural parts, for example, are an immediate culling of your most cost effective additive manufacturing options. Markforged has made decent strides in affordable structural parts, but not in a meaningful way. For example, their carbon fiber reinforced FDM printing does provide stronger parts, but not in a quantifiable way as they cannot provide yield or ultimate tensile stresses with which to analyze against. Fundamentally, if I cannot analyze a part for structural strength, it cannot be a structural (useful) part. [See their design guide for reference](https://static.markforged.com/downloads/CompositesDesignGuide.pdf){:target="_blank"}{:rel=noopener noreferrer"}
+In the case for sensor mounting on prototypes, additive manufacturing works well. However, there are major limitations to additive manufacturing. Structural parts, for example, are an immediate culling of your most cost effective additive manufacturing options. Markforged has made decent strides in affordable structural parts, but not in a meaningful way. For example, their carbon fiber reinforced FDM printing does provide stronger parts, but not in a quantifiable way as they cannot provide yield or ultimate tensile stresses with which to analyze against. Fundamentally, if I cannot analyze a part for structural strength, it cannot be a structural (useful) part. [See their design guide for reference](https://static.markforged.com/downloads/CompositesDesignGuide.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 
 
 Even if Markforged could provide required mechanical property values, only a small percentage of engineers understand analyzing anisotropic materials, or would find it worth the time as opposed to cutting a part from metal and moving on with their day.
@@ -32,7 +32,7 @@ Even if Markforged could provide required mechanical property values, only a sma
 
 No. The cost of moving a bit across the country is and always will be significantly cheaper than moving one gram of aluminum. This can't scale.
 
-Instead, the companies and their user interfaces will appear cloud like, but they will disperse their manufacturing facilities around the country to accommodate faster shipping. [See Walmart's distribution system as an example.](https://www.mbaknol.com/management-case-studies/case-study-of-walmart-logistics-management/){:target="_blank"}{:rel=noopener noreferrer"}
+Instead, the companies and their user interfaces will appear cloud like, but they will disperse their manufacturing facilities around the country to accommodate faster shipping. [See Walmart's distribution system as an example.](https://www.mbaknol.com/management-case-studies/case-study-of-walmart-logistics-management/){:target="_blank"}{:rel="noopener noreferrer"}
 
 
 
