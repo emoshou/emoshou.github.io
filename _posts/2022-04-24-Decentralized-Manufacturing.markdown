@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "The Future of Decentralized Manufacturing"
+published: true
+date: 2022-04-24
 ---
 [Ten years ago, experts thought manufacturing would decentralize and be pushed out to the edges.](http://cba.mit.edu/docs/papers/19.01.POW.pdf){:target="_blank"}{:rel=noopener noreferrer"}
 
