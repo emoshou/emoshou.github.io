@@ -2,7 +2,7 @@
 layout: post
 title:  "On Apprenticeship"
 published: true
-date: 2023-06-18
+date: 2023-06-17
 ---
 I’ve been entering a new domain (spacecraft design) and am again finding myself as the apprentice. It is, as you already know, painful. Looking like a senior and acting like a junior causes a discordance internally that is never comfortable.
 The opportunity to learn things outweighs the pain of feeling close to forty but being as confused as a twenty year old at the same time. This experience has raised a question: what are my seniors getting out of this?
